@@ -58,4 +58,4 @@ thumbs.db
 /.idea/csv-plugin.xml
 
 .env
-package-lock.json
+--fix
